@@ -10,6 +10,7 @@
       </ul>
       
 🌱 I’m currently learning <strong> Javascript</strong>
+
 👀 I’m interested in Front End Development
 
  📫 How to reach me www.linkedin.com/in/gonzalogil23 or
