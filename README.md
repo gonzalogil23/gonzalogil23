@@ -1,6 +1,6 @@
 <h1> 👋 Hi, I’m Gonzalo Gil </h1>
 
-<h3> I am studying <em> Full Stack Development</em> </h3>
+<h3> I am studying <em>Full Stack Development</em> </h3>
 
 ✨ I have already finished the Web Development course where I learned:
       <ul>
@@ -9,7 +9,7 @@
       <li>Frameworks like Bootstrap</li>
       </ul>
       
-🌱 I’m currently learning <strong> Javascript</strong>
+🌱 I’m currently learning <strong>React.js</strong> to expand what I learned of <strong>Javascript</strong> 
 
 👀 I’m interested in Front End Development
 
