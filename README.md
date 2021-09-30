@@ -1,19 +1,21 @@
 <h1> 👋 Hi, I’m Gonzalo Gil </h1>
 
-<h3> I am studying <em>Full Stack Development</em> </h3>
+<h3> I am a <em><strong>Javascript</strong> Front End Developer</em> </h3>
 
-✨ I have already finished the Web Development course where I learned:
+✨ I have knowledge on Web Development:
       <ul>
       <li>HTML</li>
       <li>CSS and SASS</li>
       <li>Frameworks like Bootstrap</li>
       </ul>
+   
+ ✨I have experience in <strong> React.js</strong>
       
-🌱 I’m currently learning <strong>React.js</strong> to expand what I learned of <strong>Javascript</strong> 
+🌱 I am currently studying BackEnd Development with <strong> Node.js </strong>
 
-👀 I’m interested in Front End Development
+👀 I’m interested in Full Stack Development
 
- 📫 How to reach me www.linkedin.com/in/gonzalogil23 or
+📫 How to reach me www.linkedin.com/in/gonzalogil23 or
       gonzalogil007@gmail.com 
 
 <!---
