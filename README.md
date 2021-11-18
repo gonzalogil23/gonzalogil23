@@ -9,7 +9,7 @@
       <li>Frameworks like Bootstrap</li>
       </ul>
    
- ✨I have experience in <strong> React.js</strong>
+ ✨Ask me about <strong> React.js and Node.js</strong>
       
 🌱 I am currently studying BackEnd Development with <strong> Node.js </strong>
 
