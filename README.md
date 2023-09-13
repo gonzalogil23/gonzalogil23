@@ -1,19 +1,16 @@
 <h1> 👋 Hi, I’m Gonzalo Gil </h1>
 
-<h3> I am a <em><strong>Javascript</strong> Front End Developer</em> </h3>
+<h3> I am a <em><strong>Javascript</strong> Full Stack Developer</em> </h3>
 
-✨ I have knowledge on Web Development:
+✨ I have knowledge on Full Stack Development:
       <ul>
-      <li>HTML</li>
-      <li>CSS and SASS</li>
-      <li>Frameworks like Bootstrap</li>
+      <li>React Js</li>
+      <li>Next Js</li>
+      <li>Node Js and NestJS</li>
+      <li>API Rest & GraphQL</li>
       </ul>
-   
- ✨Ask me about <strong> React.js and Node.js</strong>
-      
-🌱 I am currently studying BackEnd Development with <strong> Node.js </strong>
 
-👀 I’m interested in Full Stack Development
+👀 I’m interested in Front End Development
 
 📫 How to reach me www.linkedin.com/in/gonzalogil23 or
       gonzalogil007@gmail.com 
