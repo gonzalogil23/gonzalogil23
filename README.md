@@ -1,6 +1,6 @@
 <h1> 👋 Hi, I’m Gonzalo Gil </h1>
 
-<h3> I am a <em><strong>Javascript</strong> Full Stack Developer</em> </h3>
+<h3> I am a <em><strong>Typescript</strong> Full Stack Developer</em> </h3>
 
 ✨ I have knowledge on Full Stack Development:
       <ul>
